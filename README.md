@@ -1,4 +1,4 @@
-# ScrapStoreMySQL
+# Scraping to MySQL
 
 # Introduction
 Web scraping is an automatic process of extracting information from web. This scraping capture data (eg. text, HTML, links, attributes) of legal cases in webpage. After that, store it into a MySQL database.
