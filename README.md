@@ -11,6 +11,6 @@ Web scraping is an automatic process of extracting information from web. This sc
 ![](https://i.imgur.com/bsh0G7y.png)
 
 # Code and Resources Used
-**Python Verison:** 3.8.8
+**Python Verison:** 3.8
 
 **packages:** request, BeautifulSoup, json, datetime
